@@ -86,6 +86,8 @@ body {
 
 main {
   padding: 24px;
+  flex-grow: 1;
+  overflow-y: auto;
 }
 
 .search-bar {
